@@ -1,0 +1,1 @@
+"Last Night Final Quiz is a Python-based interactive quiz game that tests programming knowledge with multiple-choice questions. It features real-time progress tracking, instant answer validation, and a final score with performance feedback. The game allows users to replay and improve their scores. A great tool for learning and practicing Python concepts!"
